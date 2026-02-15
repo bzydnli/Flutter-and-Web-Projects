@@ -1,17 +1,15 @@
-Mini Katalog Uygulamasi
-Bu proje, Flutter temel egitim kapsaminda istenen mini katalog uygulamasini icerir.
+# Mini Katalog Uygulaması 
 
-Ozellikler
-Urunleri GridView ile listeleme
-Urun detayi ekranina gecis (Navigator + route argument)
-Basit favori durumu guncelleme
-assets/data/products.json uzerinden veri okuma
-Image.asset ile urun gorselleri
-Calistirma
-Flutter SDK kurulu degilse kurun.
-Proje klasorune girin:
-cd mini_katalog_uygulamasi
-Bagimliliklari yukleyin:
-flutter pub get
-Uygulamayi baslatin:
-flutter run
+Bu proje, Flutter eğitimi kapsamında geliştirilmiş bir e-ticaret demo uygulamasıdır.
+
+## Özellikler
+-  Ürün Listeleme (Local JSON & GridView)
+-  Ürün Arama (Search Bar)
+-  Ürün Detay Sayfası
+-  Sepet Yönetimi (State Management)
+-  Asset ve Network Resim Kullanımı
+
+## Nasıl Çalıştırılır?
+1. Repoyu klonlayın.
+2. Terminalde `flutter pub get` komutunu çalıştırın.
+3. `flutter run` ile başlatın.
