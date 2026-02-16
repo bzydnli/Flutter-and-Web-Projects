@@ -37,9 +37,3 @@ Proje, temel HTML, CSS ve JavaScript bilgilerini React framework ile birleştire
 
 ---
 
-##  Ekran Görüntüsü
-
-> Proje ekran görüntüsünü `screenshots` klasörüne ekleyip aşağıdaki yolu düzenleyin.
-
-```markdown
-![Uygulama Görseli](./screenshots/preview.png)
