@@ -185,7 +185,7 @@ export const TodoListPage = () => {
           {filteredTodos.length === 0 ? (
             <li className="text-gray-500 text-sm border rounded-lg p-4 bg-gray-50">
               {todos.length === 0
-                ? "Henüz görev yok. Bir şey ekle ✨"
+                ? "Henüz görev yok. Bir gorev ekle ! "
                 : "Bu filtrede gösterilecek görev yok."}
             </li>
           ) : (
