@@ -26,7 +26,7 @@ Proje, temel HTML, CSS ve JavaScript bilgilerini React framework ile birleştire
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - React (Vite)
 - JavaScript (ES6+)
