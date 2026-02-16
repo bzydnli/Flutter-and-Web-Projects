@@ -8,7 +8,7 @@ Proje, temel HTML, CSS ve JavaScript bilgilerini React framework ile birleştire
 
 ##  Canlı Demo
 
-🔗 Netlify Linki: (Buraya deploy sonrası linki ekle)
+🔗 Netlify Linki: https://cool-pavlova-708da1.netlify.app/
 
 ---
 
